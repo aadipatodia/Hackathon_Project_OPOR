@@ -188,7 +188,7 @@ This server acts as a proxy to the Ollama model.
 - **Windows (PowerShell)** / **macOS / Linux (bash)**:
   ```powershell
   # Navigate to the backend directory
-  cd path/to/Hackathon_Project_OPOR
+  cd path/to/Hackathon_Project_OPOR/backend
 
   # Activate virtual environment
   Windows: .\.venv\Scripts\Activate
@@ -204,7 +204,7 @@ This is the main API server for the application.
 ### Windows (PowerShell)
 ```powershell
 # Navigate to the backend directory
-cd path/to/Hackathon_Project_OPOR
+cd path/to/Hackathon_Project_OPOR/backend
 
 # Activate virtual environment
 .\.venv\Scripts\Activate
