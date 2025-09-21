@@ -12,7 +12,7 @@ An intelligent tool designed to help developers navigate, understand, and contri
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
-- [Contributing](#contributing)
+
 
 
 ## Key Features
@@ -255,10 +255,7 @@ The **Code Navigator AI Assistant** is more than just a tool; it's a comprehensi
 **Demo Video Link** - 
 https://www.youtube.com/watch?v=5CUmaxyhFXU&feature=youtu.be
 
-## Team Members/ Collaborators 
-1. Aadi Patodia https://github.com/aadipatodia
-2. Bhoomika Singh https://github.com/Bhoomikaaa001
-3. Ansh Chauhan https://github.com/Ansh0864
+
 
 
 
