@@ -13,8 +13,6 @@ An intelligent tool designed to help developers navigate, understand, and contri
   - [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
 
-
-
 ## Key Features
 
 -   **GitHub Repository Analysis**: Provide any public GitHub repository URL to instantly clone it and generate a complete, interactive file tree. This allows you to browse the entire codebase structure directly in the application.
@@ -138,8 +136,8 @@ This project uses a local LLM hosted by Ollama to power its AI features.
 ### Backend Setup
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/aadipatodia/Open-Source-Code-Navigator.git](https://github.com/aadipatodia/Open-Source-Code-Navigator.git)
-    cd Open-Source-Code-Navigator/backend
+    git clone [https://github.com/aadipatodia/Hackathon_Project_OPOR.git]
+    cd Hackathon_Project_OPOR/backend
     ```
 2.  **Create and activate a virtual environment**:
     - **Windows (PowerShell)**:
@@ -167,7 +165,6 @@ This project uses a local LLM hosted by Ollama to power its AI features.
 
 ### Frontend Setup
 1.  **Navigate to the frontend directory**:
-    From the root `Open-Source-Code-Navigator` directory:
     ```bash
     cd frontend
     ```
@@ -191,7 +188,7 @@ This server acts as a proxy to the Ollama model.
 - **Windows (PowerShell)** / **macOS / Linux (bash)**:
   ```powershell
   # Navigate to the backend directory
-  cd path/to/Open-Source-Code-Navigator/backend
+  cd path/to/Hackathon_Project_OPOR
 
   # Activate virtual environment
   Windows: .\.venv\Scripts\Activate
@@ -207,7 +204,7 @@ This is the main API server for the application.
 ### Windows (PowerShell)
 ```powershell
 # Navigate to the backend directory
-cd path/to/Open-Source-Code-Navigator/backend
+cd path/to/Hackathon_Project_OPOR
 
 # Activate virtual environment
 .\.venv\Scripts\Activate
@@ -220,7 +217,7 @@ python main.py
 
 ```bash
 # Navigate to the backend directory
-cd path/to/Open-Source-Code-Navigator/backend
+cd path/to/Hackathon_Project_OPOR/backend
 
 # Activate virtual environment
 source .venv/bin/activate
@@ -235,7 +232,7 @@ This serves the user interface.
 ### Windows (PowerShell) / macOS / Linux (bash)
 ```bash
 # Navigate to the frontend directory
-cd path/to/Open-Source-Code-Navigator/frontend
+cd path/to/Hackathon_Project_OPOR/frontend
 
 # Start the development server
 npm start
@@ -250,7 +247,6 @@ Once all three servers are running, open your browser and go to:
 ---
 
 The **Code Navigator AI Assistant** is more than just a tool; it's a comprehensive platform that empowers developers to confidently navigate and contribute to the open-source community. By leveraging the power of AI and secure authentication, it removes the barriers to entry and fosters a more inclusive and collaborative environment for developers of all skill levels. This project not only meets the requirements of the hackathon but also provides a valuable and practical solution to a real-world problem faced by the developer community.
-
 
 **Demo Video Link** - 
 https://www.youtube.com/watch?v=5CUmaxyhFXU&feature=youtu.be
